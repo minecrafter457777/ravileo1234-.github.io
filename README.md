@@ -1,7 +1,3 @@
-Звісно, ось ваш опис сервера LuminarGame, перекладений англійською мовою.
-
----
-
 ### **About the Server**
 
 LuminarGame is not just a Minecraft server. It's a true world for players, where everyone can find something for themselves. Our server is based on the Vanilla Minecraft 1.20.1 version, but is equipped with top-tier plugins that make the game convenient, secure, and interesting. We value the comfort of every player, which is why we've done everything to ensure there are no lags, no errors, and no freezes.
